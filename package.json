@@ -1,0 +1,25 @@
+{
+  "name": "adyen-encrypt",
+  "version": "0.0.1",
+  "description": "Adyen encryption for node or browsers. Without forms.",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "_mocha -- -R dot './test/**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbel-platform/adyen-encryption.git"
+  },
+  "keywords": [
+    "adyen",
+    "node",
+    "browser",
+    "encryption"
+  ],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/corbel-platform/adyen-encryption/issues"
+  },
+  "homepage": "https://github.com/corbel-platform/adyen-encryption#readme"
+}
