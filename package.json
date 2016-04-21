@@ -1,5 +1,5 @@
 {
-  "name": "adyen-encrypt",
+  "name": "adyen-encryption",
   "version": "0.0.1",
   "description": "Adyen encryption for node or browsers. Without forms.",
   "main": "dist/main.js",
