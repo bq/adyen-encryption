@@ -4,7 +4,7 @@ Compatible for NodeJS and browsers via browserify
 
 ## Installation
 
-`npm install --save adyen-encrypt`
+`npm install --save adyen-encryption`
 
 ## Usage
 

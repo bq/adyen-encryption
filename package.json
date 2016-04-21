@@ -2,7 +2,7 @@
   "name": "adyen-encryption",
   "version": "0.1.0",
   "description": "Adyen encryption for node or browsers. Without forms.",
-  "main": "dist/main.js",
+  "main": "src/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/corbel-platform/adyen-encryption.git"
