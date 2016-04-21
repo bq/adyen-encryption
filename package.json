@@ -1,6 +1,6 @@
 {
   "name": "adyen-encryption",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Adyen encryption for node or browsers. Without forms.",
   "main": "dist/main.js",
   "repository": {
