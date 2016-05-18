@@ -5,7 +5,7 @@
   "main": "src/main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corbel-platform/adyen-encryption.git"
+    "url": "git+https://github.com/bq/adyen-encryption.git"
   },
   "keywords": [
     "adyen",
@@ -16,9 +16,9 @@
   "author": "",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/corbel-platform/adyen-encryption/issues"
+    "url": "https://github.com/bq/adyen-encryption/issues"
   },
-  "homepage": "https://github.com/corbel-platform/adyen-encryption#readme",
+  "homepage": "https://github.com/bq/adyen-encryption#readme",
   "dependencies": {
     "sjcl": "^1.0.3"
   },
